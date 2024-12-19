@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Diversity and Balance: Multimodal Sentiment Analysis using Multimodal-Prefixed and Cross-Modal Attention"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
