@@ -1,14 +1,14 @@
 ---
-title: "FEATURE-GATED DYNAMIC LINK NETWORK FOR ASPECT-BASED SENTIMENT ANALYSIS"
-authors: "Lihua Zhou, Linghui Zhong, Dianyuan Zhang, Zhen Zhao, Meng Li, Zhenfang Zhu"
-venue: "Journal of Nonlinear and Convex Analysis"
-date: 2022
+title: "SenticNet and Abstract Meaning Representation driven Attention-Gate semantic framework for aspect sentiment triplet extraction"
+authors: "Xiaowen Sun, Jiangtao Qi, Zhenfang Zhu, Meng Li, Hongli Pei, Jing Meng"
+venue: "Engineering Applications of Artificial Intelligence (EAAI)"
+date: 2025-01
 arxiv: true
 ---
 
-FEATURE-GATED DYNAMIC LINK NETWORK FOR ASPECT-BASED SENTIMENT ANALYSIS.
+SenticNet and Abstract Meaning Representation driven Attention-Gate semantic framework for aspect sentiment triplet extraction.
 
-**Authors**: Lihua Zhou, Linghui Zhong, Dianyuan Zhang, Zhen Zhao, Meng Li, Zhenfang Zhu  
-**Venue**: *Journal of Nonlinear and Convex Analysis*  
-**Date**: 2022  
+**Authors**: Xiaowen Sun, Jiangtao Qi, Zhenfang Zhu, Meng Li, Hongli Pei, Jing Meng  
+**Venue**: *Engineering Applications of Artificial Intelligence (EAAI)*  
+**Date**: January 2025  
 **Arxiv**: [Link](#)
