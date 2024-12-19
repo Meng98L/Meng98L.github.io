@@ -1,36 +1,41 @@
 ---
 layout: archive
-title: "Publications"
+title: "📖 Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+
+# Journal Articles
+**SenticNet and Abstract Meaning Representation driven Attention-Gate semantic framework for aspect sentiment triplet extraction**   
+Xiaowen Sun, Jiangtao Qi, Zhenfang Zhu, **Meng Li**, Hongli Pei, Jing Meng
+Engineering Applications of Artificial Intelligence (EAAI) 2025-01. [[Journal]](#)
+
+**Diversity and Balance: Multimodal Sentiment Analysis using Multimodal-Prefixed and Cross-Modal Attention**
+**Meng Li**, Zhenfang Zhu, Kefeng Li, Hongli Pei
+IEEE Transactions on Affective Computing (TAFFC) 2024. [[Journal]](#)
+
+**Joint training strategy of unimodal and multimodal for multimodal sentiment analysis**   
+**Meng Li**, Zhenfang Zhu, Kefeng Li, Lihua Zhou, Zhen Zhao, Hongli Pei
+Image and Vision Computing (IVC) 2024-09. [[Journal]](#)
+
+**FEATURE-GATED DYNAMIC LINK NETWORK FOR ASPECT-BASED SENTIMENT ANALYSIS**   
+Lihua Zhou, Linghui Zhong, Dianyuan Zhang, Zhen Zhao, **Meng Li**, Zhenfang Zhu
+Journal of Nonlinear and Convex Analysis 2022. [[Journal]](#)
+
+
+# Conference Papers
 
 
 
