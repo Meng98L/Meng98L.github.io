@@ -1,5 +1,5 @@
 ---
-title: "Diversity and Balance: Multimodal Sentiment Analysis using Multimodal-Prefixed and Cross-Modal Attention"
+title: "SenticNet and Abstract Meaning Representation driven Attention-Gate semantic framework for aspect sentiment triplet extraction"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
