@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "SenticNet and Abstract Meaning Representation driven Attention-Gate semantic framework for aspect sentiment triplet extraction"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
