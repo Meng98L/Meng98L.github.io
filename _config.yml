@@ -67,16 +67,6 @@ author:
   youtube          : 
   zhihu            : 
 
-# Publication Category - The following the list of publication categories and their headings
-publication_category:
-  2022:
-    title: '2022'    
-  2023:
-    title: '2023'
-  2024:
-    title: '2024'    
-  2025:
-    title: '2025'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
