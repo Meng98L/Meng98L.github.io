@@ -1,14 +1,15 @@
 ---
-title: "FEATURE-GATED DYNAMIC LINK NETWORK FOR ASPECT-BASED SENTIMENT ANALYSIS"
-authors: "Lihua Zhou, Linghui Zhong, Dianyuan Zhang, Zhen Zhao, Meng Li, Zhenfang Zhu"
-venue: "Journal of Nonlinear and Convex Analysis"
-date: 2022
+title: "Joint training strategy of unimodal and multimodal for multimodal sentiment analysis"
+authors: "Meng Li, Zhenfang Zhu, Kefeng Li, Lihua Zhou, Zhen Zhao, Hongli Pei"
+venue: "Image and Vision Computing (IVC)"
+date: 2024-09
 arxiv: true
 ---
 
-FEATURE-GATED DYNAMIC LINK NETWORK FOR ASPECT-BASED SENTIMENT ANALYSIS.
+Joint training strategy of unimodal and multimodal for multimodal sentiment analysis.
 
-**Authors**: Lihua Zhou, Linghui Zhong, Dianyuan Zhang, Zhen Zhao, Meng Li, Zhenfang Zhu  
-**Venue**: *Journal of Nonlinear and Convex Analysis*  
-**Date**: 2022  
+**Authors**: Meng Li, Zhenfang Zhu, Kefeng Li, Lihua Zhou, Zhen Zhao, Hongli Pei  
+**Venue**: *Image and Vision Computing (IVC)*  
+**Date**: September 2024  
 **Arxiv**: [Link](#)
+
