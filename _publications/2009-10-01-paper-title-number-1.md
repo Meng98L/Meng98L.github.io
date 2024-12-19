@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "FEATURE-GATED DYNAMIC LINK NETWORK FOR ASPECT-BASED SENTIMENT ANALYSIS"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
