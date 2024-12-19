@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Joint training strategy of unimodal and multimodal for multimodal sentiment analysis"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
