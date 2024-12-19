@@ -3,7 +3,7 @@ title: "Joint training strategy of unimodal and multimodal for multimodal sentim
 collection: publications
 category: manuscripts
 permalink: /publication/paper-2
-date: 2024-09
+date: 2024-09-00
 venue: 'Image and Vision Computing (IVC)'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
