@@ -1,5 +1,7 @@
 ---
 title: "FEATURE-GATED DYNAMIC LINK NETWORK FOR ASPECT-BASED SENTIMENT ANALYSIS"
+collection: publications
+category: 2022
 authors: "Lihua Zhou, Linghui Zhong, Dianyuan Zhang, Zhen Zhao, Meng Li, Zhenfang Zhu"
 venue: "Journal of Nonlinear and Convex Analysis"
 date: 2022
