@@ -9,7 +9,7 @@ author_profile: true
 
 **SenticNet and Abstract Meaning Representation driven Attention-Gate semantic framework for aspect sentiment triplet extraction**  
 Xiaowen Sun, Jiangtao Qi, Zhenfang Zhu, <u>Meng Li</u>, Hongli Pei, Jing Meng  
-Engineering Applications of Artificial Intelligence (**EAAI**), 2025=01. [[LINK]](https://www.sciencedirect.com/science/article/abs/pii/S0952197624017834)
+Engineering Applications of Artificial Intelligence (**EAAI**), 2025-01. [[LINK]](https://www.sciencedirect.com/science/article/abs/pii/S0952197624017834)
 
 **Diversity and Balance: Multimodal Sentiment Analysis using Multimodal-Prefixed and Cross-Modal Attention**  
 <u>Meng Li</u>, Zhenfang Zhu, Kefeng Li, Hongli Pei  
